@@ -1,0 +1,13 @@
+{
+  "case": 3,
+  "phi_total": 0.3,
+  "weights": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "model_config": {
+    "hidden_layers": 6,
+    "hidden_dim": 256
+  }
+}

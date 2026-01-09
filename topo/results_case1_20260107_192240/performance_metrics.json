@@ -1,0 +1,11 @@
+{
+  "case": "case1",
+  "average_temperature": 318.0166931152344,
+  "temperature_std": 0.16580171883106232,
+  "volume_fraction": 0.9999914765357971,
+  "binary_score": 1.0,
+  "liquid_fraction_mean": 0.7757940292358398,
+  "phase_change_utilization": 1.0,
+  "volume_target": 0.3,
+  "volume_error": 0.6999914765357971
+}

@@ -1,0 +1,11 @@
+{
+  "case": "case3",
+  "volume_fraction_target": 0.3,
+  "T_pc": 316.15,
+  "delta_T": 6.0,
+  "d0": 0.025,
+  "d1": 0.065,
+  "optimizer": "Adam",
+  "initial_lr": 0.001,
+  "device": "cuda"
+}
